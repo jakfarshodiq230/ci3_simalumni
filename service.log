@@ -1,0 +1,100 @@
+These Windows services are started:
+
+   Adobe Genuine Software Integrity Service
+   AdobeUpdateService
+   Application Information
+   AppX Deployment Service (AppXSVC)
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Bluetooth Support Service
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform Service
+   Connected Devices Platform User Service_7ed6267
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Credential Manager
+   Cryptographic Services
+   Data Sharing Service
+   Data Usage
+   DCOM Server Process Launcher
+   Delivery Optimization
+   Device Association Service
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Diagnostic System Host
+   Distributed Link Tracking Client
+   DNS Client
+   Elan Service
+   Foxit Reader Service
+   Geolocation Service
+   Group Policy Client
+   HWDeviceService64.exe
+   Intel(R) Integrated Clock Controller Service - Intel(R) ICCS
+   IP Helper
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Windows SMS Router Service.
+   Network Connection Broker
+   Network Connections
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   NVIDIA Display Driver Service
+   NVIDIA Network Service
+   Office Software Protection Platform
+   Plug and Play
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   Radio Management Service
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Security Center
+   Server
+   Service KMSELDI
+   Shell Hardware Detection
+   SSDP Discovery
+   State Repository Service
+   Storage Service
+   Superfetch
+   Sync Host_7ed6267
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   Themes
+   Tile Data model server
+   Time Broker
+   TokenBroker
+   UI Assistant Service
+   User Manager
+   User Profile Service
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Antivirus Network Inspection Service
+   Windows Defender Antivirus Service
+   Windows Defender Security Center Service
+   Windows Driver Foundation - User-mode Driver Framework
+   Windows Event Log
+   Windows Firewall
+   Windows Font Cache Service
+   Windows Image Acquisition (WIA)
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Push Notifications System Service
+   Windows Push Notifications User Service_7ed6267
+   Windows Search
+   Windows Update
+   WinHTTP Web Proxy Auto-Discovery Service
+   WLAN AutoConfig
+   Workstation
+   WWAN AutoConfig
+
+The command completed successfully.
+
